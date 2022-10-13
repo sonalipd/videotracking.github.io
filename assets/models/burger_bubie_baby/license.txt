@@ -1,0 +1,11 @@
+Model Information:
+* title:	Burger Bubie Baby
+* source:	https://sketchfab.com/3d-models/burger-bubie-baby-35b52fb518b84af98361a5b44f767bca
+* author:	mikusanimation (https://sketchfab.com/mikusanimation)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Burger Bubie Baby" (https://sketchfab.com/3d-models/burger-bubie-baby-35b52fb518b84af98361a5b44f767bca) by mikusanimation (https://sketchfab.com/mikusanimation) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
